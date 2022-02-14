@@ -27,6 +27,6 @@
 
 > 用 interface 描述 **数据结构**，用 type 描述 **类型关系**
 
-### **五、TypeScript 中 any,never,unknown 和 viod 有什么区别？**
+[comment]: <> (### **五、TypeScript 中 any,never,unknown 和 viod 有什么区别？**)
 
-1.
+[comment]: <> (1.)
