@@ -30,6 +30,10 @@ export default defineConfig({
 			path: '/soft-skills',
 		},
 		{
+			title: '其他',
+			path: '/other',
+		},
+		{
 			title: 'GitHub',
 			path: 'https://github.com/weblixin/blog',
 		},
